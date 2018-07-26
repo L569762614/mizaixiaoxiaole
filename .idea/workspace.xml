@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d925750c-447d-49f3-944c-d733d60c9f36" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/Assets.xcassets/flower.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/Assets.xcassets/flower.imageset/projectile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GameLogic/GameOverScene.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GameLogic/GameOverScene.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GameLogic/GameScene.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GameLogic/GameScene.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GameLogic/shape.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GameLogic/shape.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/GameOver.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/GameOver.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/Gaming.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/Gaming.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/Start.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/Start.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/GameViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/GameViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/scene/GameScene.sks" beforeDir="false" afterPath="$PROJECT_DIR$/mizaixiaoxiaole/scene/GameScene.sks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaole/scene/MyParticle.sks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaoleTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaoleTests/mizaixiaoxiaoleTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mizaixiaoxiaoleUITests/mizaixiaoxiaoleUITests.swift" beforeDir="false" />
+    </list>
+    <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/mizaixiaoxiaole-bsyuviploldzsbbsqmkucdzxqnhx/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_da24ba3dc564d4f43034dda2f6e655b4840f4a40" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GameViewController.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/GameViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#140#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionLibrary.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/FunctionLibrary.swift">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/AppDelegate.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-122" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gaming.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/Gaming.swift">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="GameOver.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/GameOver.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="mizaixiaoxiaole" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="mizaixiaoxiaole" type="1d218c8b:XcodeProjectNode" />
+              <item name="mizaixiaoxiaole" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="mizaixiaoxiaole" type="1d218c8b:XcodeProjectNode" />
+              <item name="mizaixiaoxiaole" type="fcab9f18:XcodeViewNode" />
+              <item name="Fonts" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="mizaixiaoxiaole" type="1d218c8b:XcodeProjectNode" />
+              <item name="mizaixiaoxiaole" type="fcab9f18:XcodeViewNode" />
+              <item name="GameLogic" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="mizaixiaoxiaole" type="1d218c8b:XcodeProjectNode" />
+              <item name="mizaixiaoxiaole" type="fcab9f18:XcodeViewNode" />
+              <item name="GamePlayKItState" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="mizaixiaoxiaole" type="1d218c8b:XcodeProjectNode" />
+              <item name="mizaixiaoxiaole" type="fcab9f18:XcodeViewNode" />
+              <item name="scene" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="mizaixiaoxiaole" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mizaixiaoxiaole" TARGET_NAME="mizaixiaoxiaole" CONFIG_NAME="Debug" SCHEME_NAME="mizaixiaoxiaole" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="mizaixiaoxiaole" RUN_TARGET_NAME="mizaixiaoxiaole" MAKE_ACTIVE="TRUE">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d925750c-447d-49f3-944c-d733d60c9f36" name="Default" comment="" />
+      <created>1529728412478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529728412478</updated>
+      <workItem from="1529728416244" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="410000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="760" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32944608" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/GameViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#140#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/FunctionLibrary.swift">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/Gaming.swift">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mizaixiaoxiaole/GamePlayKItState/GameOver.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
